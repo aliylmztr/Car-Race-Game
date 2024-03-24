@@ -19,7 +19,7 @@ Windows Form App ile Bir Araba Yarışı Oyunu Tasarımı
 
 ![image](https://github.com/aliylmztr/Car-Race-Game/assets/123991935/5fb29530-d49b-4a4b-8ec3-c8fdf77fc789)
 
-4. Kullanıcının Yönlendirdiği Aracın Önüne Çıkan Bir Araç ile Çarpışması Sonucu Oyunun Sona Ermesi ve Kazanılan Puanın Yazılı Olduğu Bilgilendirme Mesaj Kutusunun Alınması
+4. Kullanıcının Yönlendirdiği Aracın Önüne Çıkan Bir Araç ile Çarpışması Sonucu Çarpma Efektinin Çıkması, Oyunun Sona Ermesi ve Kazanılan Puanın Yazılı Olduğu Bilgilendirme Mesaj Kutusunun Alınması
 
 ![image](https://github.com/aliylmztr/Car-Race-Game/assets/123991935/d9278798-3fc2-4ff9-aaa4-4adc59e0aa80)
 
