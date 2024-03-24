@@ -13,7 +13,7 @@ Windows Form App ile Bir Araba Yarışı Oyunu Tasarımı
 
 ![image](https://github.com/aliylmztr/Car-Race-Game/assets/123991935/516aa5d8-ef52-4638-be93-9eccf47de7bc)
 
-3. Klavye Yön Tuşları ile Kullanıcıya Ait Arabanın Sağa ya da Sola Doğru Hareket Ettirilmesi ve Yolda Rastegele Yerlerde Beliren Diğer Araçlara Çarpmamaya Çalışılması
+3. Klavye Yön Tuşları ile Kullanıcıya Ait Arabanın Sağa ya da Sola Doğru Hareket Ettirilmesi ve Yolda Rastgele Yerlerde Beliren Diğer Araçlara Çarpmamaya Çalışılarak İlerlenmesi
 
 ![image](https://github.com/aliylmztr/Car-Race-Game/assets/123991935/e139b506-73de-4d47-8bed-47a9218d60ed)
 
